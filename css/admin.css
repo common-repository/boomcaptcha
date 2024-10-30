@@ -1,0 +1,62 @@
+body .enmask .none {
+	display: none;
+}
+
+.enmask .keywords-form td {
+	vertical-align: top;
+}
+
+.enmask .keywords-form .keyword-column {
+	width: 138px;
+}
+
+.enmask input.error {
+	background: #FB3F41;
+}
+
+.enmask .keyword-error {
+	color: #FB3F41;
+}
+
+.enmask .quick-stat {
+	border: 1px solid #ccc;
+}
+
+.enmask .quick-stat td,
+.enmask .quick-stat th {
+	padding: 5px;
+}
+
+.enmask .quick-stat .hit {
+	text-align: center;
+}
+
+.enmask .quick-stat tr:hover td {
+	background: #ccc;
+}
+
+.enmask .add-keyword {
+	width: 98px;
+	height: 22px;
+	background: url(../imgs/add_keyword.png) no-repeat;
+	margin: 0 0 8px 0;
+}
+
+.enmask .save-changes {
+	width: 98px;
+	height: 21px;
+	background: url(../imgs/save_changes.png) no-repeat;
+}
+
+.enmask .remove {
+	width: 53px;
+	height: 21px;
+	background: url(../imgs/delete.png) no-repeat;
+}
+.enmask .color-button {
+	cursor: pointer;
+	border: 0;
+	border-radius: 0;
+	padding: 0;
+	display: block;
+}
